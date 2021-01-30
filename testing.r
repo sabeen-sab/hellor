@@ -8,3 +8,6 @@ print(name)
 print ("these lines has been writen")
 
 
+"my new work"
+x<-1:10
+x
